@@ -1,0 +1,3 @@
+apiRules:
+  - exclude:
+      uidRegex: ^SimpleLibrary\.Class1  
