@@ -1,0 +1,54 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: SimpleLibrary
+  name: SimpleLibrary
+  href: api/SimpleLibrary.html
+  commentId: N:SimpleLibrary
+  fullName: SimpleLibrary
+  nameWithType: SimpleLibrary
+- uid: SimpleLibrary.MyMath
+  name: MyMath
+  href: api/SimpleLibrary.MyMath.html
+  commentId: T:SimpleLibrary.MyMath
+  fullName: SimpleLibrary.MyMath
+  nameWithType: MyMath
+- uid: SimpleLibrary.MyMath.AddTwoDoubles(System.Double,System.Double)
+  name: AddTwoDoubles(Double, Double)
+  href: api/SimpleLibrary.MyMath.html#SimpleLibrary_MyMath_AddTwoDoubles_System_Double_System_Double_
+  commentId: M:SimpleLibrary.MyMath.AddTwoDoubles(System.Double,System.Double)
+  fullName: SimpleLibrary.MyMath.AddTwoDoubles(System.Double, System.Double)
+  nameWithType: MyMath.AddTwoDoubles(Double, Double)
+- uid: SimpleLibrary.MyMath.AddTwoDoubles*
+  name: AddTwoDoubles
+  href: api/SimpleLibrary.MyMath.html#SimpleLibrary_MyMath_AddTwoDoubles_
+  commentId: Overload:SimpleLibrary.MyMath.AddTwoDoubles
+  isSpec: "True"
+  fullName: SimpleLibrary.MyMath.AddTwoDoubles
+  nameWithType: MyMath.AddTwoDoubles
+- uid: SimpleLibrary.MyMath.AddTwoIntegers(System.Int32,System.Int32)
+  name: AddTwoIntegers(Int32, Int32)
+  href: api/SimpleLibrary.MyMath.html#SimpleLibrary_MyMath_AddTwoIntegers_System_Int32_System_Int32_
+  commentId: M:SimpleLibrary.MyMath.AddTwoIntegers(System.Int32,System.Int32)
+  fullName: SimpleLibrary.MyMath.AddTwoIntegers(System.Int32, System.Int32)
+  nameWithType: MyMath.AddTwoIntegers(Int32, Int32)
+- uid: SimpleLibrary.MyMath.AddTwoIntegers*
+  name: AddTwoIntegers
+  href: api/SimpleLibrary.MyMath.html#SimpleLibrary_MyMath_AddTwoIntegers_
+  commentId: Overload:SimpleLibrary.MyMath.AddTwoIntegers
+  isSpec: "True"
+  fullName: SimpleLibrary.MyMath.AddTwoIntegers
+  nameWithType: MyMath.AddTwoIntegers
+- uid: SimpleLibrary.MyMath.MultiplyTwoIntegers(System.Int32,System.Int32)
+  name: MultiplyTwoIntegers(Int32, Int32)
+  href: api/SimpleLibrary.MyMath.html#SimpleLibrary_MyMath_MultiplyTwoIntegers_System_Int32_System_Int32_
+  commentId: M:SimpleLibrary.MyMath.MultiplyTwoIntegers(System.Int32,System.Int32)
+  fullName: SimpleLibrary.MyMath.MultiplyTwoIntegers(System.Int32, System.Int32)
+  nameWithType: MyMath.MultiplyTwoIntegers(Int32, Int32)
+- uid: SimpleLibrary.MyMath.MultiplyTwoIntegers*
+  name: MultiplyTwoIntegers
+  href: api/SimpleLibrary.MyMath.html#SimpleLibrary_MyMath_MultiplyTwoIntegers_
+  commentId: Overload:SimpleLibrary.MyMath.MultiplyTwoIntegers
+  isSpec: "True"
+  fullName: SimpleLibrary.MyMath.MultiplyTwoIntegers
+  nameWithType: MyMath.MultiplyTwoIntegers
